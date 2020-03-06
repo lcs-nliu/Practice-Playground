@@ -1,6 +1,6 @@
 import Cocoa
 
-var numbers: [Int] = [5,6,10,2,17,28]
+var numbers = [5,6,10,2,17,28]
 print (numbers[0])
 print (numbers [3])
 
